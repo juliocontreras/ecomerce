@@ -2,6 +2,10 @@
     pageEncoding="UTF-8"%>
     
 <%@ taglib uri="http://www.springframework.org/security/tags" prefix="security" %>   
+
+<link rel="stylesheet" type="text/css" href="/webjars/bootstrap/css/bootstrap.min.css"/>
+    <script type="text/javascript" src="/webjars/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="/webjars/bootstrap/js/bootstrap.min.js"></script>
  
  
 <div class="menu-container">
