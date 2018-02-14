@@ -54,6 +54,10 @@
  
       <!-- Send/Save -->
       <input type="submit" value="Send" class="button-send-sc" />
+      
+      <!-- Show/PDF -->
+      <a href="${pageContext.request.contextPath}/.pdf">Ver PDF </a>
+      
   </form>
  
   <div class="container">
